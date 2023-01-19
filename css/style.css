@@ -1,4 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-/* font page  */
-/* font-family: 'Fredoka', sans-serif;  */
+body{
+    font-family: 'Fredoka', sans-serif; 
+}
+
+main{
+    text-align: center;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+main header h1{
+    color: #e52e76;
+    font-size: 1.7em;
+    padding-top: 25px;
+    margin-bottom: 35px;
+}
+
+
+main p{
+    font-size: 0.8em;
+}
+
+
 
